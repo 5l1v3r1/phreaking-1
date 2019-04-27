@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">phreaking</string>
+    <string name="call">Call</string>
+    <string name="ptt">PTT</string>
+</resources>
